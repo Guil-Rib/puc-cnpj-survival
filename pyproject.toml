@@ -9,6 +9,9 @@ python = "^3.10"
 pandas = "^1.5.3"
 pyspark = "^3.3.1"
 pre-commit = "^3.0.1"
+nbconvert = "^7.2.9"
+seaborn = "^0.12.2"
+pyarrow = "^11.0.0"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^6.0.0"
